@@ -12,7 +12,7 @@ Musicatto es una aplicación de música diseñada para ofrecer una buena experie
 
 * Interfaz: Podras disfrutar de una interfaz limpia y fácil de usar
 
-* Búsqueda avanzada: Encuentra tus cnaciones, artistas o albumes rapidamente
+* Búsqueda avanzada: Encuentra tus canciones, artistas o albumes rapidamente
 
 ## Uso
 
