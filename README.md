@@ -22,6 +22,7 @@ Una vez la aplicación este en funcionamiento, estos son algunos de los usos que
 
 * Contara con un funcionalidad basica en los botones, en los cuales podras pausar las canciones o ir a la proxima canción
 * Buscar nuevas canciones
+* Navegación simple entre pantallas
 
 ## Licencia
 
