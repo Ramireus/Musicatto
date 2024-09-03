@@ -4,24 +4,24 @@ Musicatto es una aplicación de música diseñada para ofrecer una buena experie
 
 ## Caracteristicas
 
-* Listas de reproduccion: Podras crear listas personalizadas y podras gestionar tus propias listas de reproducción
+* El proyecto va a ser desarrollado en Android Studio
 
-* Reproducción de musica: Escucha tus canciones favoritas con una excelente calidad de sonido
+* Reproducción de musica: Escucha tus canciones favoritas con una buena calidad de sonido
 
-* Modo sin conexión: Podras descargar tus canciones favoritas para poderlas escuchar en cualquier lugar sin necesidad de conexión a internet
+* Se va a utilizar un API para poder obtener la musica, y asi generar listas de música
 
 * Interfaz: Podras disfrutar de una interfaz limpia y fácil de usar
 
-* Búsqueda avanzada: Encuentra tus canciones, artistas o albumes rapidamente
+* Búsqueda avanzada: Encuentra tus canciones preferidas
+
+* La app va a contar con un login en el cual podras registrarte o iniciar sesión
 
 ## Uso
 
 Una vez la aplicación este en funcionamiento, estos son algunos de los usos que brindará la aplicación:
 
-* Navegar por tu biblioteca de música
-* Crear y editar listas de reproducción
-* Buscar nuevas canciones y artistas
-* Descargar música para escuchar sin conexión
+* Contara con un funcionalidad basica en los botones, en los cuales podras pausar las canciones o ir a la proxima canción
+* Buscar nuevas canciones
 
 ## Licencia
 
